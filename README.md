@@ -20,7 +20,7 @@ The Heroku deployed application can be accessed via the following link: []().
 Nagivate the site via the heroku link, enter transactions offline and they will be added to tracker once back online.
 
 ## Screenshots
-![budget](Develop/images/budget.png)
+![budget](images/budget.png)
 
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
