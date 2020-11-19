@@ -3,7 +3,6 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Screenshots](#screenshots)
 * [Credits](#credits)
@@ -17,12 +16,11 @@ SO THAT my account balance is accurate when I am traveling.
 
 The Heroku deployed application can be accessed via the following link: [](). 
 
-## Installation
-
 ## Usage
+Nagivate the site via the heroku link, enter transactions offline and they will be added to tracker once back online.
 
 ## Screenshots
-![budget](images/.png)
+![budget](images/budget.png)
 
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
